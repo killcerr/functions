@@ -1,7 +1,6 @@
 name: Update SDK
 
-on:
-  workflow_dispatch:
+on: release
 
 jobs:
   update_sdk:
